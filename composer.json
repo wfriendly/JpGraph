@@ -1,0 +1,21 @@
+{
+    "name": "wfriendly/jpgraph",
+    "type": "library",
+    "description": "jpGraph, library to make graphs and charts",
+    "keywords": ["graph","chart","pie","jpgraph","data"],
+    "homepage": "http://jpgraph.net/",
+    "license": [
+        "LGPL-2.1",
+        "GPL-3.0+",
+        "MIT"
+    ],
+    "authors": [
+        {
+            "name": "JpGraph team"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "classmap": ["lib/JpGraph.php"]
+    }
+}
