@@ -4,6 +4,7 @@
     "description": "jpGraph, library to make graphs and charts",
     "keywords": ["graph","chart","pie","jpgraph","data"],
     "homepage": "http://jpgraph.net/",
+    "minimum-stability": "dev",
     "license": [
         "LGPL-2.1",
         "GPL-3.0+",
